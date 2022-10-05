@@ -1,0 +1,3 @@
+# navbar
+A navbar with routing
+history cannot be used as variable name, as this will be overlapped by the global history variable...
